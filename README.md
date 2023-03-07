@@ -19,7 +19,9 @@ I like native Android app
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 #### Tool
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 
+
+### GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh-g001&show_icons=true&theme=gruvbox)
 
