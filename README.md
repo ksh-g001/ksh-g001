@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Welcome&fontSize=90)
 
-### Android 
+### Intro 
 Hello, I'm Kim Soo Hyun.<br>
 I'm a college student studying native Android app development.
 I like native Android app 
