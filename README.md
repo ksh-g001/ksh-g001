@@ -22,3 +22,5 @@ I like native Android app
 ## GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh-g001&show_icons=true&theme=dark)
 
+## Blog
+[<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=K&logoColor=white"/>](https://velog.io/@ksh-g001)
