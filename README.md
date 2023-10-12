@@ -3,7 +3,6 @@
 ## Intro 
 Hello, I'm Kim Soo Hyun.<br>
 I'm a college student studying native Android app development.
-I like native Android app 
 
 안녕하세요, 안드로이드 네이티브 앱 공부를 하고 있는 김수현이라고 합니다.<br>
 아직 대학생인 만큼 많이 부족하지만, 올해(2023)부터 햇병아리에서 벗어나 프로젝트를 올리기로 결심했습니다.<br>
